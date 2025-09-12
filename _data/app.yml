@@ -1,21 +1,31 @@
-name: Mobile App Name
-description: A super tagline for the mobile app
-full_description: 'A more complete description of the mobile app<br>
+name: EggTime – Perfect Egg Timer
+description: Perfect boiled eggs every time – soft, medium, or hard. 
+full_description: 'Tired of overcooked or undercooked eggs? <br>
+With Egg Timer, you’ll get perfectly boiled eggs every time. Simply choose how you like your eggs – soft, medium, hard, or even poached – and start the timer.
+<br>
 <br>With a lot of features:
-<br>- Feature 1
-<br>- Feature 2
-<br>- Feature 3'
-android: https://telegra.ph/Replace-this-link-07-23
-iOS: https://telegra.ph/Replace-this-link-07-23
-web: https://telegra.ph/Replace-this-link-07-23
+<br>- Preset cooking times for soft, medium & hard eggs
+<br>- Adjustable manual timer (custom cooking time)
+<br>- Temperature mode (room temp vs fridge)
+<br>- Easy-to-use start/stop with clear countdown
+<br>- Clean, minimal design made for the kitchen
+<br>-Works offline, no internet needed
+<br>
+Perfect for breakfast lovers, families, and anyone who wants consistent results every morning.<br>
+Stop guessing. Start timing. Enjoy eggs your way.
+'
+android: false
+iOS: https://apps.apple.com/us/app/eggtime-perfect-egg-timer/id6751714238
+web: false
 screenshots:
-  - 1.png
-  - 2.png
-  - 3.png
-  - 4.png
-producthunt: https://telegra.ph/Replace-this-link-07-23
-companies:
-  - url: https://telegra.ph/Replace-this-link-07-23
-    image: androidpolice.png
-  - url: https://telegra.ph/Replace-this-link-07-23
-    image: producthunt.png
+  - 1.jpeg
+  - 2.jpeg
+  - 3.jpeg
+  - 4.jpeg
+  - 5.jpeg
+producthunt: false
+companies: false
+  # - url: https://telegra.ph/Replace-this-link-07-23
+  #   image: androidpolice.png
+  # - url: https://telegra.ph/Replace-this-link-07-23
+  #   image: producthunt.png

@@ -1,10 +1,10 @@
 {
-  "name": "Mobile App Name",
-  "short_name": "Mobile App Name",
+  "name": "EggTime – Perfect Egg Timer",
+  "short_name": "EggTime",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": "/",
-  "description": "A super tagline for the mobile app",
+  "description": "Perfect boiled eggs every time – soft, medium, or hard - iOS 26 app",
   "scope": "/",
   "theme_color": "#efeeff",
   "background_color": "#efeeff"
