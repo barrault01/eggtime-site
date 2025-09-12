@@ -7,7 +7,7 @@ title: EggTime – Perfect Egg Timer
 email: contact@asapps.fr
 description: Perfect boiled eggs every time – soft, medium, or hard. Simple and reliable egg timer for your kitchen.
 baseurl: "/eggtime-site" # the subpath of your site, e.g. /blog
-url: "https://barrault01.github.io/eggtime-site/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://barrault01.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 theme_color: '#efeeff'
 # twitter_username: 
 # github_username:  
